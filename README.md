@@ -7,11 +7,11 @@
 > neofetch
 ```
 
-<img src="https://github.com/astrohexdev/my-assets/blob/Main/pro/pro-2.gif" align="left" width="320" height="300"  /> 
+<img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" align="left" width="300" height="290" style="border-radius:50px;"/> 
 
 ```diff
 astrohexdev@github.com
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 ! OS: Windows | Linux
 
 + Shell: bash

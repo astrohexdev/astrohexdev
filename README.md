@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" width="290" height="300"/>
+      <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" width="200" height="300"/>
     </td>
   
   <td>

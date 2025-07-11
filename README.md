@@ -1,26 +1,28 @@
-<h1 align="center">Hi , I'm Madhavan </h1>
-
-<p align="center">
-</p>
-
-```zsh
-> neofetch
-```
-
-<img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" align="left" width="280" height="260"/> 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" width="290" height="300"/>
+    </td>
+  
+  <td>
+    
 ```diff
 astrohexdev@github.com
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-! OS: Windows | Linux
 
-+ Shell: bash
++ OS: Windows | Linux
 
-- Pronouns: He/Him
+- Shell: bash
 
-+ GPU: Intel UHD graphics
+! Languages: Java, Python
 
-- CPU: Intel Celeron N4500
+# Processor: Intel Celeron N4500
 
-+ Languages: Java, Python, HTML, CSS
++ Pronouns: He/Him
 ```
+
+  </td>
+  
+  
+  </tr>
+</table>

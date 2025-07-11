@@ -7,7 +7,7 @@
 > neofetch
 ```
 
-<img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" align="left" width="300" height="29" style="border-radius:50px;"/> 
+<img src="https://raw.githubusercontent.com/astrohexdev/my-assets/Main/pro/pro-2.gif" align="left" width="300" height="290"/> 
 
 ```diff
 astrohexdev@github.com

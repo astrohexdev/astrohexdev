@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Madhavan </h1>
 
-<!--
-**astrohexdev/astrohexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+</p>
 
-Here are some ideas to get you started:
+```zsh
+> neofetch
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/user-attachments/assets/042da63f-2f93-4ca6-b58d-4427c5862af7.gif" align="left" src="" width="320" /> 
+
+
+
+
+```diff
+astrohexdev@github.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! OS: Windows | Linux
++ Shell: bash
+- Pronouns: He/Him
++ GPU: Intel UHD graphics
+- CPU: Intel Celeron N4500 
++ Languages: Java, Python, HTML, CSS
+
+
+```

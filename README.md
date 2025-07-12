@@ -1,6 +1,9 @@
 ## Hi, I'm Madhavan
-![Profile view](https://komarev.com/ghpvc/?username=astrohexdev&color=green)
-![](https://custom-icon-badges.demolab.com/badge/I_Love-error-red.svg?logo=alert-triangle&logoColor=white)
+![Profile view](https://komarev.com/ghpvc/?username=astrohexdev&color=red)
+![Badge](https://img.shields.io/badge/Boot_Failed-Fixed-green)
+
+
+
 
 Aspiring software developer, currently focusing on developing projects and learning Technologies.
 

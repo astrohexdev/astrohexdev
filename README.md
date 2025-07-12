@@ -3,7 +3,9 @@
 
 I'm a software developer, currently focusing on developing projects and learning web technologies.
 
-![https://google.com](https://img.shields.io/badge/gmail-white?style=social&logo=gmail)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:madhavan4253@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://https://discord.com/users/userid/1195338866014568508)
+
 
 
 

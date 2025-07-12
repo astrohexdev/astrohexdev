@@ -1,6 +1,6 @@
 ## Hi, I'm Madhavan
 ![Profile view](https://komarev.com/ghpvc/?username=astrohexdev&color=red)
-![Badge](https://img.shields.io/badge/Boot_Failed-Fixed-green)
+![Badge](https://img.shields.io/badge/Boot_Failed-Fixed-green?logo=gnubash&logoColor=white)
 
 
 

@@ -11,7 +11,7 @@ Aspiring software developer, currently focusing on developing projects and learn
 
 ---
 ## Quick overview
-- Currently working on backend technology
+- Currently working on backend technology.
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 
 ## Operating System

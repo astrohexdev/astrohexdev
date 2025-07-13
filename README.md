@@ -18,7 +18,7 @@ Aspiring software developer, currently focusing on developing projects and learn
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 
 ## Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
 
 
 

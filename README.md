@@ -22,13 +22,14 @@ Aspiring software developer, currently focusing on developing projects and learn
   <img src="./logo/android.svg" title="Android" width=50 height=50/>
 </p>
 
-## Custom ROM's
+## Custom ROM's & Recovery
 
 <p>
-  <img src="./logo/final-cyanogen.svg" title="Cyanogenmod" width=50 height=50/>
-  <img src="./logo/final-remix.svg" title="Resurrection Remix" width=50 height=50/>
-  <img src="./logo/final-lineage.svg" title="Lineage Os" width=50 height=50/>
+  <img src="./logo/cyanogen.svg" title="Cyanogenmod" width=50 height=50/>
+  <img src="./logo/remix.svg" title="Resurrection Remix" width=50 height=50/>
+  <img src="./logo/lineage.svg" title="Lineage Os" width=50 height=50/>
   <img src="./logo/flyme.svg" title="Flyme Os" width=50 height=50/>
+  <img src="./logo/twrp.svg" title="TWRP Recovery" width=50 height=50/>
 </p>
 
 ## Code with

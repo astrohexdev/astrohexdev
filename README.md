@@ -25,8 +25,10 @@ Aspiring software developer, currently focusing on developing projects and learn
 ## Custom ROM's
 
 <p>
-  <img src="./logo/remix.svg" width=50 height=50/>
-  <img src="./logo/cyanogen.svg" width=50 height=50/>
+  <img src="./logo/final-cyanogen.svg" width=50 height=50/>
+  <img src="./logo/final-remix.svg" width=50 height=50/>
+  <img src="./logo/final-lineage.svg" width=50 height=50/>
+  <img src="./logo/flyme.svg" width=50 height=50/>
 </p>
 
 ## Code with

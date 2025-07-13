@@ -17,16 +17,18 @@ Aspiring software developer, currently focusing on developing projects and learn
 ## Operating System
 
 <p>
-  <img src="./logo/windows.svg" width=50 height=50/>
-  <img src="./logo/ubuntu.svg" width=50 height=50/>
-  <img src="./logo/android.svg" width=50 height=50/>
+  <img src="./logo/windows.svg" title="Windows" width=50 height=50/>
+  <img src="./logo/ubuntu.svg" title="Ubuntu" width=50 height=50/>
+  <img src="./logo/android.svg" title="Android" width=50 height=50/>
 </p>
 
 ## Custom ROM's
 
 <p>
-  <img src="./logo/remix.svg" width=50 height=50/>
-  <img src="./logo/cyanogen.svg" width=50 height=50/>
+  <img src="./logo/final-cyanogen.svg" title="Cyanogenmod" width=50 height=50/>
+  <img src="./logo/final-remix.svg" title="Resurrection Remix" width=50 height=50/>
+  <img src="./logo/final-lineage.svg" title="Lineage Os" width=50 height=50/>
+  <img src="./logo/flyme.svg" title="Flyme Os" width=50 height=50/>
 </p>
 
 ## Code with

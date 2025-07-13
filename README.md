@@ -15,15 +15,18 @@ Aspiring software developer, currently focusing on developing projects and learn
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 
 ## Operating System
+
 <p>
-  <a href="https://microsoft.com" target="_blank">
+  <a href="https://microsoft.com">
     <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/windows.svg" width=50 height=50>
   </a>
-  
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/ubuntu.svg" width=50 height=50>
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/android.svg" width=50 height=50>
+  <a href="https://ubuntu.com">
+    <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/ubuntu.svg" width=50 height=50>
+  </a>
+  <a href="https://www.android.com">
+    <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/android.svg" width=50 height=50>
+  </a>
 </p>
-
 
 ## Code with
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)

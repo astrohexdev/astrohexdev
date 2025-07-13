@@ -17,12 +17,9 @@ Aspiring software developer, currently focusing on developing projects and learn
 ## Operating System
 
 <p>
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/windows.svg" width=50 height=50/>
-
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/ubuntu.svg" width=50 height=50/>
-  
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/android.svg" width=50 height=50/>
-
+  <img src="./logo/windows.svg" width=50 height=50/>
+  <img src="./logo/ubuntu.svg" width=50 height=50/>
+  <img src="./logo/android.svg" width=50 height=50/>
 </p>
 
 

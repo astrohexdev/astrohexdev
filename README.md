@@ -2,9 +2,6 @@
 ![Profile view](https://komarev.com/ghpvc/?username=astrohexdev&color=red)
 ![Badge](https://img.shields.io/badge/boot-Fixed-green?logo=gnubash&logoColor=white)
 
-
-
-
 Aspiring software developer, currently focusing on developing projects and learning Technologies.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavan4253@gmail.com)
@@ -19,8 +16,9 @@ Aspiring software developer, currently focusing on developing projects and learn
 
 ## Operating System
 <p>
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/1.png" width=150 height=100>
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/2.png" width=150 height=100>
+  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/windows.svg" width=50 height=50>
+  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/ubuntu.svg" width=50 height=50>
+  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/android.svg" width=50 height=50>
 </p>
 
 

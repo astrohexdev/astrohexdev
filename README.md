@@ -22,6 +22,12 @@ Aspiring software developer, currently focusing on developing projects and learn
   <img src="./logo/android.svg" width=50 height=50/>
 </p>
 
+## Custom ROM's
+
+<p>
+  <img src="./logo/remix.svg" width=50 height=50/>
+  <img src="./logo/cyanogen.svg" width=50 height=50/>
+</p>
 
 ## Code with
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)

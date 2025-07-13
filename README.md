@@ -18,6 +18,10 @@ Aspiring software developer, currently focusing on developing projects and learn
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 
 ## Operating System
+<p>
+  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/1.png" width=150 height=100>
+  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/logo/2.png" width=150 height=100>
+</p>
 
 
 ## Code with

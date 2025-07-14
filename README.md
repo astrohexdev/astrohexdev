@@ -56,3 +56,7 @@ Intrested in innovating lightweight and stable applications.!
 
 ## Code with
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
+
+[go][my-go-link]{:target="_blank" rel="noopener"}
+
+[my-go-link]: http://stackoverflow.com

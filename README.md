@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm madhavan !</h1>
 
 <p align="center">
-  <img alt="profile here" width="500px" src="./profile/pro-3.gif"/>
+  <img title="How are you..!" width=500px src="./profile/pro-3.gif"/>
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
 Aspiring software developer, currently focusing on developing projects and learning Technologies
 
 Intrested in innovating lightweight and stable applications.!
-
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavan4253@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madhavanmi)
@@ -41,23 +39,4 @@ Intrested in innovating lightweight and stable applications.!
 </p>
 
 ## Code with
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/astrohexdev/my-assets/refs/heads/Main/pro/pro-3.gif" width="500" height="500"> 
-</p>
--->
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql,tensorflow)

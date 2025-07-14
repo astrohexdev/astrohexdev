@@ -9,10 +9,8 @@
   <img src="https://img.shields.io/badge/boot-Fixed-green?logo=gnubash&logoColor=white"/>
 </p>
 
-🌿
 Aspiring software developer, currently focusing on developing projects and learning Technologies
 
-🍁
 Intrested in innovating lightweight and stable applications.!
 
 

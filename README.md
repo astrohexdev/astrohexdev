@@ -12,6 +12,7 @@
 <!--
   About section
 -->
+
 Aspiring software developer, currently focusing on developing projects and learning Technologies
 
 Intrested in innovating lightweight and stable applications.!
@@ -28,8 +29,9 @@ Intrested in innovating lightweight and stable applications.!
 <!--
   Resume section
 -->
+
 > [!TIP]
-> You can get my resume here [![Resume](https://img.shields.io/badge/Resume-F39C12?style=social&logo=googledrive&logoColor=E53935)](https://drive.google.com/file/d/1osbujvn5US7gW42G0oyKrFi52WabtCid)
+> You can get my resume here [![Resume](https://img.shields.io/badge/View-8E44AD?style=social&logo=googledrive&logoColor=E53935)](https://drive.google.com/file/d/1osbujvn5US7gW42G0oyKrFi52WabtCid)
 
 ## Quick overview
 - Currently working on backend technology.

@@ -9,11 +9,13 @@
   <img src="https://img.shields.io/badge/boot-Fixed-green?logo=gnubash&logoColor=white"/>
 </p>
 
-<!--
-![Profile view](https://komarev.com/ghpvc/?username=astrohexdev&color=red)
-![Badge](https://img.shields.io/badge/boot-Fixed-green?logo=gnubash&logoColor=white)
--->
-Aspiring software developer, currently focusing on developing projects and learning Technologies.
+🌿
+Aspiring software developer, currently focusing on developing projects and learning Technologies
+
+🍁
+Intrested in innovating lightweight and stable applications.!
+
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavan4253@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madhavanmi)
@@ -25,7 +27,6 @@ Aspiring software developer, currently focusing on developing projects and learn
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 
 ## Operating System
-
 <p>
   <img src="./logo/windows.svg" title="Windows" width=50 height=50/>
   <img src="./logo/ubuntu.svg" title="Ubuntu" width=50 height=50/>
@@ -33,7 +34,6 @@ Aspiring software developer, currently focusing on developing projects and learn
 </p>
 
 ## Custom ROM's & Recovery
-
 <p>
   <img src="./logo/cyanogen.svg" title="Cyanogenmod" width=50 height=50/>
   <img src="./logo/remix.svg" title="Resurrection Remix" width=50 height=50/>

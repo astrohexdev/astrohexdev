@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm madhavan !</h1>
 
 <p align="center">
-  <img title="How are you..!" src="./profile/pro-3.gif"  width=500/>
+  <img title="How are you..!" src="./profile/pro-3.gif"  width=500 height=500/>
 </p>
 
 <p align="center">
@@ -18,9 +18,18 @@ Intrested in innovating lightweight and stable applications.!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00A862?style=for-the-badge&logo=maildotru&logoColor=white)](https://linkedin.com/in/madhavan-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/userid/1195338866014568508)
 
+> [!TIP]
+> You can get my resume here [![Resume](https://img.shields.io/badge/Resume-F39C12?style=social&logo=googledrive&logoColor=E53935)](https://drive.google.com/file/d/1X9Htlhk0-0JXPWkIBv18OcFnPxKt5qLK)
+> 
+<!--
+> [![Resume](https://img.shields.io/badge/Resume-F39C12)](https://drive.google.com/file/d/1X9Htlhk0-0JXPWkIBv18OcFnPxKt5qLK)
+-->
+
+
 ## Quick overview
 - Currently working on backend technology.
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
+- My all OpenSource projects are available within github.
 
 ## Operating System
 <p>

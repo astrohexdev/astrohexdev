@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm madhavan !</h1>
 
 <p align="center">
-  <img alt="profile here" src="./profile/pro-4.gif"/>
+  <img alt="profile here" width="500px" src="./profile/pro-3.gif"/>
 </p>
 
 <p align="center">

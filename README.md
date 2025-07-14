@@ -1,3 +1,7 @@
+<!--
+  Introduction section
+-->
+
 <h1 align="center">Hi I'm madhavan !</h1>
 
 <p align="center">
@@ -38,6 +42,10 @@ Intrested in innovating lightweight and stable applications.!
 - Feel free to reach out for OS-level debugging, performance tuning on Windows/Linux config.
 - My all OpenSource projects are available within github.
 
+<!--
+  Skill section
+-->
+
 ## Operating System
 <p>
   <img src="./logo/windows.svg" title="Windows" width=50 height=50/>
@@ -56,7 +64,3 @@ Intrested in innovating lightweight and stable applications.!
 
 ## Code with
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
-
-[go][my-go-link]{:target="_blank" rel="noopener"}
-
-[my-go-link]: http://stackoverflow.com

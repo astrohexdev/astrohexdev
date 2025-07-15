@@ -53,7 +53,7 @@ Intrested in innovating lightweight and stable applications.!
   <img src="./logo/android.svg" title="Android" width=50 height=50/>
 </p>
 
-## Custom ROM's & Recovery
+## Custom ROM's | Recovery
 <p>
   <img src="./logo/cyanogen.svg" title="Cyanogenmod" width=50 height=50/>
   <img src="./logo/remix.svg" title="Resurrection Remix" width=50 height=50/>

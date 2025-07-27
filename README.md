@@ -64,3 +64,10 @@ Intrested in innovating lightweight and stable applications.!
 
 ## Code with
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
+
+<!-- 
+## Disclaimer
+
+All product names, logos, and brands are property of their respective owners.  
+The SVG icons/logos provided in this repository are custom recreations for illustrative and non-commercial purposes only.
+-->

@@ -5,7 +5,7 @@
 <h1 align="center">Hi I'm madhavan !</h1>
 
 <p align="center">
-  <img title="How are you..!" src="./profile/hero-2.jpg" height=300 width=700/>
+  <img title="Yep a space lover 🛰️!" src="./profile/hero-2.jpg" height=300 width=700/>
 </p>
 
 <p align="center">

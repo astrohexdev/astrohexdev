@@ -64,7 +64,7 @@ Intrested in innovating lightweight and stable applications.!
 </p>
 
 ## Code with
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,java,python,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,c,java,python,mysql)
 
 <!-- 
 ## Disclaimer
